@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "status": "not_run",
+  "evaluated_at": null,
+  "criteria": [
+    "Completion claims match observed evidence",
+    "Current handoff and continuity notes written",
+    "Unresolved work and next action retained"
+  ],
+  "evidence": [],
+  "notes": "No Claude runtime evaluation has been performed."
+}

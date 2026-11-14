@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "status": "not_run",
+  "evaluated_at": null,
+  "criteria": [
+    "Acceptance criteria and target recorded",
+    "Requested behavior implemented in real files",
+    "Relevant checks run or explicitly marked unverified",
+    "Setup instructions and evidence-based handoff written"
+  ],
+  "evidence": [],
+  "notes": "No Claude runtime evaluation has been performed."
+}

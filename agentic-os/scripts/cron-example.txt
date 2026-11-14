@@ -1,0 +1,6 @@
+# EXAMPLE ONLY. No crontab entry has been installed.
+# Offline structure validation at 09:00, in the scheduler's timezone.
+# Replace paths with real absolute paths. The validator lives in the SOURCE clone.
+# Review permissions and logs. This does not invoke Claude or /heartbeat.
+0 9 * * * /usr/bin/python3 "/absolute/source/claude-code-agentic-os/scripts/validate.py" --root "/absolute/workspace" >> "/absolute/private-logs/agentic-os-check.log" 2>&1
+# Use crontab -e yourself to opt in; remove this line there to stop it.

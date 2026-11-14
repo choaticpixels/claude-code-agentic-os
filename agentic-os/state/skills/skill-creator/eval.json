@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "status": "not_run",
+  "evaluated_at": null,
+  "criteria": [
+    "Skill has a clear trigger, scope and output",
+    "Frontmatter and referenced files checked",
+    "Realistic example evaluated or explicitly not run"
+  ],
+  "evidence": [],
+  "notes": "No Claude runtime evaluation has been performed."
+}

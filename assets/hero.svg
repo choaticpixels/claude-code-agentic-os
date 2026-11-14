@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700" role="img" aria-labelledby="title desc">
+  <title id="title">Claude Code Agentic OS</title>
+  <desc id="desc">A dark orbital mission-control illustration framing six connected workflow skills. Build with context. Finish with evidence.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101525"/><stop offset="1" stop-color="#090c14"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#d9a98c" stop-opacity=".17"/><stop offset="1" stop-color="#d9a98c" stop-opacity="0"/></radialGradient>
+    <linearGradient id="line"><stop stop-color="#d7a38c"/><stop offset="1" stop-color="#8dc8c6"/></linearGradient>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse"><path d="M 56 0 L 0 0 0 56" fill="none" stroke="#8dc8c6" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1600" height="700" rx="16" fill="url(#bg)"/>
+  <rect width="1600" height="700" rx="16" fill="url(#grid)"/>
+  <ellipse cx="1200" cy="355" rx="430" ry="350" fill="url(#glow)"/>
+  <g stroke="#d7a38c" fill="none"><circle cx="1210" cy="345" r="230" stroke-opacity=".2"/><circle cx="1210" cy="345" r="172" stroke-opacity=".12"/><circle cx="1210" cy="345" r="110" stroke-opacity=".4"/><path d="M980 345h460M1210 115v460" stroke-opacity=".13"/><path d="M1000 225l420 240M1000 465l420-240" stroke-opacity=".13"/></g>
+  <g fill="#d7a38c"><circle cx="1210" cy="115" r="5"/><circle cx="1409" cy="230" r="5"/><circle cx="1409" cy="460" r="5"/></g>
+  <g fill="#8dc8c6"><circle cx="1210" cy="575" r="5"/><circle cx="1011" cy="460" r="5"/><circle cx="1011" cy="230" r="5"/></g>
+  <g font-family="monospace" font-size="15" fill="#abb3c2" letter-spacing="1"><text x="1164" y="93">HEARTBEAT</text><text x="1428" y="235">BUILD</text><text x="1428" y="465">AUDIT</text><text x="1175" y="608">WRAP-UP</text><text x="884" y="465">REVIEW</text><text x="884" y="235">CREATE</text></g>
+  <path d="M1162 346h27l13-30 16 58 15-28h25" fill="none" stroke="url(#line)" stroke-width="4" stroke-linejoin="round"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="95" y="120" font-family="monospace" font-size="17" letter-spacing="4" fill="#8dc8c6">CONTEXT / CRAFT / CONTINUITY</text>
+    <text x="88" y="276" font-size="96" font-weight="700" letter-spacing="-4" fill="#f1eee9">CLAUDE CODE</text>
+    <text x="88" y="380" font-size="96" font-weight="700" letter-spacing="-4" fill="#d7a38c">AGENTIC OS</text>
+    <text x="95" y="454" font-size="26" fill="#bdc2ce">Build with context. Finish with evidence.</text>
+    <path d="M95 507h650" stroke="url(#line)" stroke-opacity=".4"/>
+    <text x="95" y="555" font-family="monospace" font-size="16" fill="#9aa6b8" letter-spacing="2">6 SKILLS   /   PLAIN FILES   /   YOUR WORKFLOW</text>
+    <text x="95" y="635" font-family="monospace" font-size="14" fill="#637386" letter-spacing="2">AN INDEPENDENT OPEN-SOURCE WORKFLOW KIT</text>
+  </g>
+</svg>

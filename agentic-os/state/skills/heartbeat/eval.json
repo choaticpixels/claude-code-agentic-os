@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "status": "not_run",
+  "evaluated_at": null,
+  "criteria": [
+    "Required paths inspected and missing items listed",
+    "Freshness and unresolved errors assessed with limits",
+    "One actionable next step and handoff recorded"
+  ],
+  "evidence": [],
+  "notes": "No Claude runtime evaluation has been performed."
+}

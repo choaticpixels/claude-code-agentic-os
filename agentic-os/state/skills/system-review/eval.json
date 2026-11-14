@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "status": "not_run",
+  "evaluated_at": null,
+  "criteria": [
+    "Findings trace to specific files and impacts",
+    "Stale facts and contradictions distinguished from unknowns",
+    "Any changes remain scoped and are verified"
+  ],
+  "evidence": [],
+  "notes": "No Claude runtime evaluation has been performed."
+}

@@ -1,0 +1,7 @@
+# Runtime context is local by default in projects installed with install.py.
+# Existing tracked starter files in a clone remain tracked despite this file.
+/business-brain/*.md
+/memory/*.md
+/logs/*
+/state/skills/*/*.md
+/state/skills/*/*.json

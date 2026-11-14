@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "status": "not_run",
+  "evaluated_at": null,
+  "criteria": [
+    "Implementation reviewed against stated criteria",
+    "Findings include concrete triggers and references",
+    "Checks and remaining coverage limits disclosed"
+  ],
+  "evidence": [],
+  "notes": "No Claude runtime evaluation has been performed."
+}
